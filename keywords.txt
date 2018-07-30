@@ -1,0 +1,5 @@
+RMCQControl	KEYWORD1
+changeNormal	KEYWORD2
+changeReverse	KEYWORD2
+setUp	KEYWORD2
+center	KEYWORD2
