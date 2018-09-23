@@ -1,6 +1,6 @@
 = RMCQ Servo Control Library for Arduino =
 
-This library allows an Arduino board to control RC (hobby) servo motors for trunout control.
+This library allows an Arduino board to control RC (hobby) servo motors for turnout control.
 
 To use this library, download the repository as a zip file. Extract to your Arduino libraries folder.
 
